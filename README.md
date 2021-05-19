@@ -1,2 +1,4 @@
-# SBSnake
-Square Braket Snake - Cool Snake game in C
+# Square Braket Snake
+### **Cool Snake game in C**
+
+Welcome to SBSnake.
