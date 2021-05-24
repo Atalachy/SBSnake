@@ -58,7 +58,7 @@ Modes:
 - **Blocks** - Walls, you and now blocks? What else can make you lose? Look out for the blocks that spawn randomly.
 - **Zen** - Relax mode, nothing can make you lose. Use this when you just need to relax. Highscore will not update in this mode!
 
-Costumization:
+Customization:
 - **Apple** - Colors available: Black, Red, Green, Yellow, Blue, Magenta, Cyan, White.
 - **Head** - Colors available: Black, Red, Green, Yellow, Blue, Magenta, Cyan, White.
 - **Tail** - Colors available: Black, Red, Green, Yellow, Blue, Magenta, Cyan, White.
