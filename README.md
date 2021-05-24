@@ -69,3 +69,6 @@ Costumization:
 Windows Terminal | Classic CMD
 
 ![Difference](https://user-images.githubusercontent.com/70037544/119352461-a0e03b00-bc99-11eb-9685-04d38336a3e0.png)
+
+Last Block of the tail is the darkest block and can be only noticed in the Windows Terminal version.
+Some design things, like blinking cursor or grey colors, cannot be seen in the CMD and PowerShell version.
