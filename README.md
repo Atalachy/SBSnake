@@ -4,11 +4,25 @@
 
 ### **Cool Snake game i did for school oh yeah boi!**
 
+[Overview](#overview) | [System Requirements](#system-requirements) | [Installation](#installation) | [Gameplay](#gameplay) | [Difference between CMDs](#difference-between-cmds)
+
 ## Overview
 
 ![SBSnakeGif](https://media.giphy.com/media/4foCQyTQOegr76dUhX/giphy.gif)
 
 Small snake game, with simple graphics, that works on CMD. Get points, get big, and dont lose.
+
+## System Requirements
+
+Because of the way this game was coded it will only work on **Windows systems** for now. Main objective for the next versions is getting the game to work in all devices.
+
+There is also a minimum screen size. You will need at least a screen with **800x600** screen size.
+
+## Installation
+
+To install the game go to [realeases](https://github.com/Atalachy/SBSnake/releases/tag/v1.0) and install the binary.
+
+This game will be new in your pc, so windows will try to stop it from running. Go to **more info** in the smart screen and then press **run anyways**
 
 ## Gameplay
 
@@ -55,16 +69,3 @@ Costumization:
 Windows Terminal | Classic CMD
 
 ![Difference](https://user-images.githubusercontent.com/70037544/119352461-a0e03b00-bc99-11eb-9685-04d38336a3e0.png)
-
-
-## System Requirements
-
-Because of the way this game was coded it will only work on **Windows systems** for now. Main objective for the next versions is getting the game to work in all devices.
-
-There is also a minimum screen size. You will need at least a screen with **800x600** screen size.
-
-## Installation
-
-To install the game go to [realeases](https://github.com/Atalachy/SBSnake/releases/tag/v1.0) and install the binary.
-
-This game will be new in your pc, so windows will try to stop it from running. Go to **more info** in the smart screen and then press **run anyways**
