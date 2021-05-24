@@ -20,7 +20,7 @@ There is also a minimum screen size. You will need at least a screen with **800x
 
 ## Installation
 
-To install the game go to [realeases](https://github.com/Atalachy/SBSnake/releases/tag/v1.0) and install the binary.
+To install the game go to [release](https://github.com/Atalachy/SBSnake/releases/tag/v1.0) and install the binary.
 
 This game will be new in your pc, so windows will try to stop it from running. Go to **more info** in the smart screen and then press **run anyways**
 
