@@ -841,28 +841,36 @@ int playerInput(int *direction, int height, int *gameState, bool *EnableInput, i
     if (kbhit()){
         keypress = getch();
         switch(keypress){
-            case 75: //Left
+            case 65: //A key (Caps)
+            case 97: //A key
+            case 75: //Arrow Key - Left
                 if(*direction == RIGHT){    //Cancel input if player going in the opposite direction
                     break;
                 }  
                 *direction = LEFT;          //Set new direction
                 *EnableInput = false;       //Input enable again
                 break;
-            case 72: //UP
+            case 87: //W key (Caps)
+            case 119: //W key
+            case 72: //Arrow Key - UP
                 if(*direction == DOWN){
                     break;
                 }  
                 *direction = UP;
                 *EnableInput = false;
                 break;
-            case 77: //RIGHT
+            case 68: //D key (Caps)
+            case 100://D key
+            case 77: //Arrow Key - RIGHT
                 if(*direction == LEFT){
                     break;
                 }  
                 *direction = RIGHT;
                 *EnableInput = false;
                 break;
-            case 80: //DOWN
+            case 83: //S key (Caps)
+            case 115://S key
+            case 80: //Arrow Key - DOWN
                 if(*direction == UP){
                     break;
                 }  
